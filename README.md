@@ -7,4 +7,4 @@ The link from Repl.it is:
 
 https://repl.it/@chaudhryna/Hard-Wrap-Up-Your-Language-Translator-with-GUI
 
-![Image of Language Translator App](Language Translator App.png)
+![Image of Language Translator App](Language-Translator-App.png)
